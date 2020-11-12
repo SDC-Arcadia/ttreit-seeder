@@ -1,0 +1,24 @@
+{
+  "name": "ttreit-seeder",
+  "version": "1.0.0",
+  "description": "A script to seed 10 million primary fake records for SDC project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDC-Arcadia/ttreit-seeder.git"
+  },
+  "author": "Tammy Treit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDC-Arcadia/ttreit-seeder/issues"
+  },
+  "homepage": "https://github.com/SDC-Arcadia/ttreit-seeder#readme",
+  "dependencies": {
+    "faker": "^5.1.0",
+    "graceful-fs": "^4.2.4",
+    "mongoose": "^5.10.14"
+  }
+}
