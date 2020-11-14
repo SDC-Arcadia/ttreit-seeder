@@ -37,5 +37,5 @@ function generateFakeReviews (itemQuantity, filename) {
 
 }
 
-generateFakeReviews(1000, 'newtest.csv');
+generateFakeReviews(10000000, 'reviews.csv');
 
